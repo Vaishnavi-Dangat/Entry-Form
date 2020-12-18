@@ -1,0 +1,71 @@
+body{
+    background-image: url(bgimage.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.formdesign{
+    text-align: center;
+    margin: 50px 600px;
+    
+}
+#registration{
+    width: 120%;
+    background-color: black;
+    opacity: 0.8;
+    padding: 50px 0px;
+}
+#button{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px
+}
+#ph{
+    outline: 0px;
+    width: 66px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#phone{
+    width: 180px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
+#but{
+    color: white;
+    font-size: 20px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
+#butt{
+    outline: 0px;
+    color: white;
+    font-size: 20px;
+    background-color: #0c6996;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    opacity: 1;   
+}
+#time{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
+#inout{
+    color: white;
+    font-size: 20px;
+    margin-left: 68px;
+    text-align: left;
+}
+#stream{
+    outline: 0px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px; 
+}
